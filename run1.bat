@@ -1,0 +1,2 @@
+java CustomerTest
+pause
